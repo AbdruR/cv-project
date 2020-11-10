@@ -1,0 +1,185 @@
+/*
+Template name: PSD to HTML with Bootstrap
+Theme URL: http://www.ledp.ictd.gov.bd; 
+Author:LEDP Kushtia;
+Author URl: http://www.ledp.ictd.gov.bd;
+Decription:PSD to HTML with Bootstrap ;
+Verion: 1.1;
+License:GPL;
+Tags:Bootstrap, PSD to HTML, HTML, CSS, corporate, ecommerce, responsive,duhoot;
+Text-Domain: du-boot;
+*/
+
+body{
+    font-family: 'roboto', 'sans-serif';
+}
+.padd{
+    padding-top: 60px;
+}
+.bg_color{
+    background-color: #ddd;
+    margin-top: 40px;
+    border-radius: 10px;
+    padding: 5px;
+    padding-bottom: 3px;
+}
+h3{
+     font-weight: 700;
+    font-size: 28px;
+}
+
+/************************************
+header section style goes here
+************************************/
+#header h1{
+    font-weight: 800;
+    font-size: 32px;
+    line-height: .8;
+}
+#header .contact img{
+    margin-top: -80px;
+}
+#header .name{
+    text-decoration: underline;
+}
+#header .contact{
+    padding-top: 30px;
+}
+#header .contact h2{
+    font-weight: 600;
+    font-size: 26px;
+    line-height: .8;
+}
+#header .contact p{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: .8;
+    padding-top: 10px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+#header .career{
+    font-size: 18px;
+}
+#header .career span{
+    font-size: 28px;
+    font-weight: 700;
+}
+/************************************
+header section style end here
+************************************/
+
+/************************************
+education section style goes here
+************************************/
+.single_edu h4{
+    text-decoration: underline;
+    font-size: 28px;
+    font-weight: 700;
+    margin-top: 10px;
+    line-height: 1;
+    margin-bottom: 20px;
+}
+.single_edu .mar{
+    margin-left: 80px;
+}
+.single_edu .mymar{
+    padding-left: 140px;
+    flex: content;
+}
+.single_edu p{
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 0.8;
+    font-family: 'roboto', 'sans-serif';
+}
+.single_edu p span{
+    margin-right: 20px;
+    font-weight: 900;
+}
+/************************************
+education section style end here
+************************************/
+
+/************************************
+profession section style start here
+************************************/
+#profession p{
+    font-size: 18px;
+    font-weight: 400;
+}
+#profession p first-word{
+    margin-left: 80px;
+    font-size: 22px;
+    font-weight: 700;
+}
+#profession p span{
+    font-weight: 700;
+    font-size: 22px;
+}
+/************************************
+profession section style end here
+************************************/
+
+/************************************
+others section style end here
+************************************/
+#other p{
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 0;
+    line-height: 1;
+    margin-left: 65px;
+}
+/************************************
+others section style end here
+************************************/
+
+/************************************
+personal info section style end here
+************************************/
+ #personal_info .mymar{
+    padding-left: 140px;
+    flex: content;
+} 
+#personal_info p {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 0.8;
+    font-family: 'roboto', 'sans-serif';
+}
+#personal_info p span{
+    margin-right: 20px;
+    font-weight: 900;
+}
+/************************************
+personal info section style end here
+************************************/
+
+/************************************
+referane section style start here
+************************************/
+#referance{
+    padding-bottom: 60px;
+}
+/* #referance .mymar{
+    margin-left: 125px;
+    flex: content;
+} */
+#referance p{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 0.8;
+    font-family: 'roboto', 'sans-serif';
+}
+#referance h4{
+    font-weight: 700;
+}
+#referance .diclar p{
+    font-size: 22px;
+    line-height: 1;
+    font-weight: normal;
+}
+/************************************
+referane info section style end here
+************************************/
